@@ -1,0 +1,125 @@
+ul#conjunto-simbolos {
+	width: 800px;
+	margin: 0 auto;
+	padding: 50px;
+	overflow: hidden;
+	list-style: none;
+}
+ul#conjunto-simbolos li {
+	float: right;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+	border: 5px solid rgba(32, 178, 170, 0.3);
+	background-color: white;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+	-webkit-transition: all 0.2s ease-in;
+
+}
+
+ul#conjunto-simbolos li span {
+	opacity: 0;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	background-color: rgba(0, 0, 0, 0.3);
+	font-size: 13pt;
+	line-height: 330px;
+	padding: 5px;
+}
+
+ul#conjunto-simbolos li:hover {
+	-webkit-transform: scale(1.2);
+}
+
+ul#conjunto-simbolos li:hover span {
+	opacity: 1;
+}
+
+ul#conjunto-simbolos li#tenis01 {
+	background: url("../Imagens/new/new01.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis02 {
+	background: url("../Imagens/new/new02.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis03 {
+	background: url("../Imagens/new/new03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis04 {
+	background: url("../Imagens/new/new04.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis05 {
+	background: url("../Imagens/new/new05.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis06 {
+	background: url("../Imagens/new/new06.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem01 {
+	background: url("../Imagens/new/new-fem01.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem02 {
+	background: url("../Imagens/new/new-fem02.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem03 {
+	background: url("../Imagens/new/new-fem03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem04 {
+	background: url("../Imagens/new/new-fem04.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem05 {
+	background: url("../Imagens/new/new-fem05.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis-fem06 {
+	background: url("../Imagens/new/new-fem06.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos legend {
+	color: black;
+	font-size: 13pt;
+}

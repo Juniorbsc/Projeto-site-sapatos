@@ -1,0 +1,294 @@
+ul#conjunto-simbolos {
+	width: 750px;
+	margin: 0 auto;
+	padding: 50px;
+	overflow: hidden;
+	list-style: none;
+}
+ul#conjunto-simbolos li {
+	float: right;
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+	border: 5px solid rgba(32, 178, 170, 0.3);
+	background-color: white;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+	-webkit-transition: all 0.2s ease-in;
+
+}
+
+ul#conjunto-simbolos li span {
+	opacity: 0;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	background-color: rgba(0, 0, 0, 0.3);
+	font-size: 13pt;
+	line-height: 330px;
+	padding: 5px;
+}
+
+ul#conjunto-simbolos li:hover {
+	-webkit-transform: scale(1.2);
+}
+
+ul#conjunto-simbolos li:hover span {
+	opacity: 1;
+}
+
+ul#conjunto-simbolos li#tenis01 {
+	background: url("../Imagens/nike/nike-fem01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis02 {
+	background: url("../Imagens/nike/nike-fem02.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis03 {
+	background: url("../Imagens/nike/nike-fem03.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis04 {
+	background: url("../Imagens/nike/nike-fem04.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis05 {
+	background: url("../Imagens/nike/nike-fem05.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis06 {
+	background: url("../Imagens/nike/nike-fem06.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis07 {
+	background: url("../Imagens/adidas/adidas-fem01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis08 {
+	background: url("../Imagens/adidas/adidas-fem02.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis09 {
+	background: url("../Imagens/adidas/adidas-fem03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis10 {
+	background: url("../Imagens/adidas/adidas-fem04.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis11 {
+	background: url("../Imagens/adidas/adidas-fem05.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis12 {
+	background: url("../Imagens/adidas/adidas-fem06.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis13 {
+	background: url("../Imagens/puma/puma-fem01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis14 {
+	background: url("../Imagens/puma/puma-fem02.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis15 {
+	background: url("../Imagens/puma/puma-fem03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis16 {
+	background: url("../Imagens/puma/puma-fem04.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis17 {
+	background: url("../Imagens/puma/puma-fem05.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis18 {
+	background: url("../Imagens/puma/puma-fem06.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis19 {
+	background: url("../Imagens/jordan/jordan-fem01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis20 {
+	background: url("../Imagens/jordan/jordan-fem02.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis21 {
+	background: url("../Imagens/jordan/jordan-fem03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis22 {
+	background: url("../Imagens/jordan/jordan-fem04.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis23 {
+	background: url("../Imagens/jordan/jordan-fem05.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis24 {
+	background: url("../Imagens/jordan/jordan-fem06.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis25 {
+	background: url("../Imagens/converse/converse-fem01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis26 {
+	background: url("../Imagens/converse/converse-fem02.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis27 {
+	background: url("../Imagens/converse/converse-fem03.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis28 {
+	background: url("../Imagens/converse/converse-fem04.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis29 {
+	background: url("../Imagens/converse/converse-fem05.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis30 {
+	background: url("../Imagens/converse/converse-fem06.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis31 {
+	background: url("../Imagens/new/new-fem01.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis32 {
+	background: url("../Imagens/new/new-fem02.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis33 {
+	background: url("../Imagens/new/new-fem03.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis34 {
+	background: url("../Imagens/new/new-fem04.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis35 {
+	background: url("../Imagens/new/new-fem05.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+ul#conjunto-simbolos li#tenis36 {
+	background: url("../Imagens/new/new-fem06.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
+
+ul#conjunto-simbolos legend {
+	color: black;
+	font-size: 13pt;
+}
