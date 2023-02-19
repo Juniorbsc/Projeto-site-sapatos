@@ -77,5 +77,82 @@ ul#conjunto-simbolos li#simb-balance {
 	background-color: white;
 
 }
+ul#conjunto-masc {
+	width: 700px;
+	margin: 0 auto;
+	padding: 50px;
+	overflow: hidden;
+	list-style: none;
+}
+ul#conjunto-masc li {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 5px solid rgba(32, 178, 170, 0.3);
+	background-color: white;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+	-webkit-transition: all 0.2s ease-in;
 
+}
 
+ul#conjunto-masc li span {
+	opacity: 0;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	background-color: rgba(0, 0, 0, 0.3);
+	font-size: 12pt;
+	line-height: 370px;
+	padding: 5px;
+}
+
+ul#conjunto-masc li:hover {
+	-webkit-transform: scale(1.2);
+}
+
+ul#conjunto-masc li:hover span {
+	opacity: 1;
+}
+
+ul#conjunto-masc li#simb-nike {
+	background: url("../Imagens/nike/nike01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-masc li#simb-adidas {
+	background: url("../Imagens/adidas/adidas01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-masc li#simb-puma {
+	background: url("../Imagens/puma/puma01.png") no-repeat;
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-masc li#simb-jordan {
+	background: url("../Imagens/jordan/jordan01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-masc li#simb-converse {
+	background: url("../Imagens/converse/converse01.png");
+	background-position: 50% 50%;
+	background-size: 230px 230px;
+	background-color: white;
+
+}
+ul#conjunto-masc li#simb-balance {
+	background: url("../Imagens/new/new01.png");
+	background-position: 50% 50%;
+	background-size: 210px 210px;
+	background-color: white;
+
+}
