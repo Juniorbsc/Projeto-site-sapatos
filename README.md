@@ -1,2 +1,2 @@
 # Projetos
- Meus projetos principais
+Projeto de um site de loja de sapatos
