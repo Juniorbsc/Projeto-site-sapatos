@@ -21,10 +21,22 @@ input, textarea {
 }
 
 input:hover, textarea:hover {
-    background-color: lightgrey;
+    background-color: rgba(204, 218, 215, 0.8);
 }
 
 fieldset {
     border-color: #20bbaa;
     margin: 20px;
+}
+fieldset#formulario {
+    background-image: linear-gradient(to right, rgba(64, 224, 208, 0.5), rgba(255, 255, 255) ) ;
+}
+fieldset label{
+    text-align: center;
+    font-size: 15pt;
+
+}
+fieldset input{
+    float: right;
+    padding-right: 20%;
 }
