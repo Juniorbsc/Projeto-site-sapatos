@@ -1,6 +1,7 @@
 form {
     width: 500px;
     margin: auto;
+    margin-bottom: 10%;
 }
 form h1 {
     color: #20bbaa;
@@ -39,4 +40,19 @@ fieldset label{
 fieldset input{
     float: right;
     padding-right: 20%;
+}
+form input#btnEnviar {
+    background-color: #20bbaa;
+    color: aliceblue;
+    width: 30%;
+    padding: 15px;
+    font-size: 15pt;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 200px;
+    position: relative;
+    left: 5%;
+}
+form input#btnEnviar:hover {
+    background-color: violet;
 }
