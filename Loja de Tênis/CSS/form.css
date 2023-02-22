@@ -1,0 +1,30 @@
+form {
+    width: 500px;
+    margin: auto;
+}
+form h1 {
+    color: #20bbaa;
+    font-size: 25pt;
+    text-align: center;
+}
+form h2 {
+    color: #20bbaa;
+    font-size: 25pt;
+    text-align: center;
+}
+
+input, textarea {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+input:hover, textarea:hover {
+    background-color: lightgrey;
+}
+
+fieldset {
+    border-color: #20bbaa;
+    margin: 20px;
+}
